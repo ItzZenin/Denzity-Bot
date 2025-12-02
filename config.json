@@ -1,0 +1,32 @@
+{
+  "token": " ",
+  "prefix": "-",
+  "mongoURI": "ue&w=majority&appName=Denzity",
+  "ownerId": "1036267471814012939",
+  "ownerprefix": "d!",
+  "errorWebhook": "",
+  "clientId": "1347270832598286406",
+  "NAVY_API_KEY": "",
+  "TOPGG_AUTH": "",
+  "VIRUSTOTAL_API_KEY": "",
+  "NEWS_API": "7a11772cc0a2412a8764ac62155c4612",
+  "inviteURL": "https://discord.com/oauth2/authorize?client_id=1347270832598286406",
+  "supportServer": "https://discord.gg/",
+  "SPOTIFY_API_KEY": "",
+  "OPENAI_API_KEY": "",
+  "GEMINI_API_KEY": "",
+  "LAVALINK_SECURE": "false",
+  "LAVALINK_PASSWORD": "https://dsc.gg/ajidevserver",
+  "LAVALINK_HOST": "lavalinkv4.serenetia.com",
+  "LAVALINK_PORT": "80",
+  "embed": {
+    "color": "#0d82d8",
+    "footer": "Developed By Denzity HQ",
+    "image": "https://cdn.discordapp.com/banners/1347270832598286406/2ab44f8bbad8b83ec89664295c1d76c6.png?size=512",
+    "pterodactyl": {
+        "panelUrl": "",
+        "apiKey": "",
+        "serverId": ""
+    }
+  }
+}
